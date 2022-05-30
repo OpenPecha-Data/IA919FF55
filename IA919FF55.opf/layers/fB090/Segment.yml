@@ -1,0 +1,144 @@
+id: a2d95b51b9074066b8293174448bb900
+annotation_type: Segment
+revision: '00001'
+annotations:
+  f981ceff9e2a43dca7239efb3431bc6e:
+    span:
+      start: 0
+      end: 11
+    metadata: {}
+  0fada1020d7b445dbd4d280884d68dff:
+    span:
+      start: 13
+      end: 23
+    metadata: {}
+  29565668e82545a89cfd2150b830e4a5:
+    span:
+      start: 25
+      end: 32
+    metadata: {}
+  85ec48923e154bf0bf8943c22709c7d7:
+    span:
+      start: 34
+      end: 95
+    metadata: {}
+  0c55cb991cfa4c42be5d0af1d23c585f:
+    span:
+      start: 97
+      end: 128
+    metadata: {}
+  2e62d53a39dd4ca6be18069962a1ab08:
+    span:
+      start: 130
+      end: 138
+    metadata: {}
+  898eb22a9dc545529b80684234931d10:
+    span:
+      start: 140
+      end: 346
+    metadata: {}
+  7078d1886b22463f9e23b011a291ac71:
+    span:
+      start: 348
+      end: 655
+    metadata: {}
+  91b3fa3129304a4f944cfc9947d6dc61:
+    span:
+      start: 657
+      end: 672
+    metadata: {}
+  dd15c0e77b8c4ef998d8123e975171bf:
+    span:
+      start: 674
+      end: 726
+    metadata: {}
+  be8b0f33c0444390919261aa6bd9db76:
+    span:
+      start: 728
+      end: 914
+    metadata: {}
+  a665ad6940a145e38011ea635ddb4ea6:
+    span:
+      start: 916
+      end: 923
+    metadata: {}
+  c2c34dc499bc49328888d69e1271cb6d:
+    span:
+      start: 925
+      end: 1176
+    metadata: {}
+  7c6e38c0cf3e4280a58aa716e41fc8ce:
+    span:
+      start: 1178
+      end: 1185
+    metadata: {}
+  1c725f772e9b4dc2b2bedc4588582198:
+    span:
+      start: 1187
+      end: 1202
+    metadata: {}
+  d7421760acb248189c00d15466b38633:
+    span:
+      start: 1204
+      end: 1212
+    metadata: {}
+  8ac9dd4cfb9d4d8cb9f98b6713cadc10:
+    span:
+      start: 1214
+      end: 1384
+    metadata: {}
+  62ea343e68f345319b308c8c9339be54:
+    span:
+      start: 1386
+      end: 1435
+    metadata: {}
+  287741316ab647138f6db5c95d64446a:
+    span:
+      start: 1437
+      end: 1442
+    metadata: {}
+  5c3d3a49b0204abaa188d73480582102:
+    span:
+      start: 1444
+      end: 1526
+    metadata: {}
+  eb9a82c63c1742ddb1bc937fe855e8a9:
+    span:
+      start: 1528
+      end: 1592
+    metadata: {}
+  eafaa307af3c45bf9c1573fb25203bf3:
+    span:
+      start: 1594
+      end: 1630
+    metadata: {}
+  c7551e5c1aa54342a63a20075835740b:
+    span:
+      start: 1632
+      end: 1636
+    metadata: {}
+  c01e53af0a5b4e51b31d4898118ffcf5:
+    span:
+      start: 1638
+      end: 1642
+    metadata: {}
+  11a849f5dae94ec3a40c38d407d2e546:
+    span:
+      start: 1644
+      end: 1836
+    metadata: {}
+  77b13251933f418c87860b493a913826:
+    span:
+      start: 1838
+      end: 1844
+    metadata: {}
+  a6551fe583ed409f94df5e8fe5e9fc9e:
+    span:
+      start: 1846
+      end: 2148
+    metadata: {}
+  4e0d6ad49bf6431fa15582e98dd087b7:
+    span:
+      start: 2150
+      end: 2459
+    metadata: {}
